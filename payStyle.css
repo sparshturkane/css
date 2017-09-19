@@ -1,0 +1,15 @@
+body
+{
+  margin: 0;
+  padding: 0;
+
+}
+
+input:not([type]), input[type="text"]
+{
+background:red;
+}
+#first_name{
+  color: pink;
+  font-size: 14px; 
+}
